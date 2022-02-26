@@ -16,12 +16,12 @@ airfoil and reference result must follow examples given in the Example_data fold
 
 # Contributors : 
 
--   23621008  David Waldo Parlindungan 
--   23621020  Al-Faisal Firdaus
--   13618036  Muhamad Abdul Aziz
+-   David Waldo Parlindungan - 23621008  
+-   Al-Faisal Firdaus - 23621020  
+-   Muhamad Abdul Aziz - 13618036  
 
  
 # References: 
-[1] Moran, J. (2013). An introduction to theoretical and Computational Aerodynamics. Dover Publications. 
-[2] Degrez, G. (2012). Two-dimensional Boundary Layers. 
-[3] Kuethe, A. M., &amp; Chow, C.-Y. (2000). Foundations of aerodynamics: Bases of aerodynamic design. J. Wiley 
+-[1] Moran, J. (2013). An introduction to theoretical and Computational Aerodynamics. Dover Publications. 
+-[2] Degrez, G. (2012). Two-dimensional Boundary Layers. 
+-[3] Kuethe, A. M., &amp; Chow, C.-Y. (2000). Foundations of aerodynamics: Bases of aerodynamic design. J. Wiley 
