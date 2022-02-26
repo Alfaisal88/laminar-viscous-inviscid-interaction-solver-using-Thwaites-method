@@ -22,6 +22,6 @@ airfoil and reference result must follow examples given in the Example_data fold
 
  
 # References: 
--[1] Moran, J. (2013). An introduction to theoretical and Computational Aerodynamics. Dover Publications. 
--[2] Degrez, G. (2012). Two-dimensional Boundary Layers. 
--[3] Kuethe, A. M., &amp; Chow, C.-Y. (2000). Foundations of aerodynamics: Bases of aerodynamic design. J. Wiley 
+1. Moran, J. (2013). An introduction to theoretical and Computational Aerodynamics. Dover Publications. 
+2. Degrez, G. (2012). Two-dimensional Boundary Layers. 
+3. Kuethe, A. M., &amp; Chow, C.-Y. (2000). Foundations of aerodynamics: Bases of aerodynamic design. J. Wiley 
